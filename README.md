@@ -92,9 +92,13 @@ project/
 - The GUI is built using Tkinter, allowing users to upload videos and view results interactively.
   
 ![Screenshot 2024-12-04 141938](https://github.com/user-attachments/assets/1ee9d4b8-53f6-4910-b7fd-a5b0cdf64055)
+
 ![Screenshot 2024-12-04 142040](https://github.com/user-attachments/assets/dffe9ed5-5c50-4c2d-93a2-3110f701bed3)
+
 ![Screenshot 2024-12-04 142053](https://github.com/user-attachments/assets/08c252ff-bbf4-4306-b819-0c1fe8aa19cb)
+
 ![Screenshot 2024-12-04 142102](https://github.com/user-attachments/assets/1763872e-9258-4e08-aab0-d604d056b9b6)
+
 ![Screenshot 2024-12-04 142117](https://github.com/user-attachments/assets/01db38d4-7aea-4052-aaf1-ade3c2dfa303)
 
 ## Future Enhancements
