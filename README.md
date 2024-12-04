@@ -22,6 +22,7 @@ To run this project, ensure you have the following installed:
    - Tkinter (comes with Python standard library)
 
 ## Folder Structure
+```
 project/
 ├── data/                   
 │   ├── train    
@@ -37,6 +38,7 @@ project/
 ├── videos/                 # Directory to store video files for testing 
 ├── train_test.ipynb        # Model training
 └── main.py                 # Main Python script
+```
 
 ## Installation
 
