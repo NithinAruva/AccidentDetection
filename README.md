@@ -2,14 +2,14 @@
 
 This project implements an accident detection system using a Convolutional Neural Network (CNN) and a Tkinter-based graphical user interface (GUI). The system can analyze a video file to predict whether an accident has occurred.
 
-## Features
+## ✨ Features
 
 - Upload a video file for accident detection.
 - Real-time prediction of accidents using a trained CNN model.
 - Beep sound alert when an accident is detected.
 - Simple and intuitive GUI for easy interaction.
 
-## Prerequisites
+🛠️ Prerequisites
 
 To run this project, ensure you have the following installed:
 
@@ -40,7 +40,7 @@ project/
 └── main.py                 # Main Python script
 ```
 
-## Installation
+🖥️ Setup Instructions
 
 1. Clone the repository:
    ```bash
