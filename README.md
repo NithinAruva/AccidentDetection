@@ -9,7 +9,7 @@ This project implements an accident detection system using a Convolutional Neura
 - Beep sound alert when an accident is detected.
 - Simple and intuitive GUI for easy interaction.
 
-🛠️ Prerequisites
+## 🛠️ Prerequisites
 
 To run this project, ensure you have the following installed:
 
@@ -40,7 +40,7 @@ project/
 └── main.py                 # Main Python script
 ```
 
-🖥️ Setup Instructions
+## 🖥️ Setup Instructions
 
 1. Clone the repository:
    ```bash
@@ -76,19 +76,19 @@ project/
 
 ## How It Works
 
-### Model Loading:
+# Model Loading:
 - The pre-trained CNN model architecture is loaded from `model/model.json`.
 - Weights are loaded from `model/model_weights.h5`.
 
-### Video Processing:
+# Video Processing:
 - Each frame of the video is resized to the model's input size (120x120).
 - Pixel values are normalized between 0 and 1.
 
-### Prediction:
+# Prediction:
 - The CNN model predicts whether an accident has occurred in the frame.
 - If an accident is detected, a beep sound is played.
 
-### GUI:
+## GUI:
 - The GUI is built using Tkinter, allowing users to upload videos and view results interactively.
   
 ![Screenshot 2024-12-04 141938](https://github.com/user-attachments/assets/1ee9d4b8-53f6-4910-b7fd-a5b0cdf64055)
