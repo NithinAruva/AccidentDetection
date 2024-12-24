@@ -76,15 +76,15 @@ project/
 
 ## How It Works
 
-# Model Loading:
+#### Model Loading:
 - The pre-trained CNN model architecture is loaded from `model/model.json`.
 - Weights are loaded from `model/model_weights.h5`.
 
-# Video Processing:
+#### Video Processing:
 - Each frame of the video is resized to the model's input size (120x120).
 - Pixel values are normalized between 0 and 1.
 
-# Prediction:
+#### Prediction:
 - The CNN model predicts whether an accident has occurred in the frame.
 - If an accident is detected, a beep sound is played.
 
